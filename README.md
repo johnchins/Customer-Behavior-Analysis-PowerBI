@@ -8,12 +8,12 @@ PowerBI (DAX, Data Modeling, Data Visualization)
 ### Data
 The Customer data consist of 15+ columns and 3900 rows
 
-### Insights Drawn from the Dashboard
+## Insights Drawn from the Dashboard
 
 ### 🧍‍♂️ **1. Customer Gender Imbalance**
 
 * **68% of customers are male**, while only **32% are female**.
-  ➡ Suggests a male-dominated customer base — marketing could target female audiences for balance and growth.
+  ➡ Suggests a male-dominated customer base. Marketing could target female audiences for balance and growth.
 
 ---
 
@@ -26,7 +26,7 @@ The Customer data consist of 15+ columns and 3900 rows
 
 ### 💰 **3. Sales Volume by Gender**
 
-* Across all categories, **male customers consistently outspend females** — especially in Clothing and Accessories.
+* Across all categories, **male customers consistently outspend females**; especially in Clothing and Accessories.
   ➡ Indicates males may have higher average order values.
 
 ---
@@ -34,7 +34,7 @@ The Customer data consist of 15+ columns and 3900 rows
 ### 👶🧓 **4. Mature Customers Drive Sales**
 
 * The **age group above 55** accounts for the highest order volume (≈21K orders).
-  ➡ Older shoppers are a loyal and active segment — ideal for loyalty programs or premium products.
+  ➡ Older shoppers are a loyal and active segment; ideal for loyalty programs or premium products.
 
 ---
 
@@ -62,14 +62,14 @@ The Customer data consist of 15+ columns and 3900 rows
 ### ⭐ **8. Best-Rated Shipping Type: Standard**
 
 * **Standard shipping** has the **highest average rating (3.82)** across all product categories.
-  ➡ Balances speed, reliability, and cost — consider promoting it as the default option.
+  ➡ Balances speed, reliability, and cost. Consider promoting it as the default option.
 
 ---
 
 ### ⚡ **9. Premium Shipping Methods Slightly Lower Ratings**
 
 * “Next Day Air” and “Free Shipping” score slightly lower (3.72).
-  ➡ Fast delivery doesn’t always guarantee satisfaction — customer communication may be key.
+  ➡ Fast delivery doesn’t always guarantee satisfaction.
 
 ---
 
@@ -83,32 +83,25 @@ The Customer data consist of 15+ columns and 3900 rows
 ### 💳 **11. Payment Diversity with Digital Dominance**
 
 * **PayPal (17.36%)**, **Credit Card (17.21%)**, and **Cash (17.18%)** are top payment modes.
-  ➡ The even spread shows flexibility, but digital payments slightly dominate — optimize online checkout UX.
+  ➡ The even spread shows flexibility, but digital payments slightly dominate.
 
 ---
 
 ### 👥 **12. Strong Male Presence Across All Age Groups**
 
 * Males outnumber females in every age band, especially above 55.
-  ➡ Brand positioning, imagery, and campaigns might be skewed male — potential gender diversification needed.
+  ➡ Brand positioning, imagery, and campaigns might be skewed male. Potential gender diversification may be needed.
 
 ---
 
 ### 🕐 **13. Consistent Customer Engagement Across Seasons**
 
 * The number of customers remains relatively stable (Spring to Summer).
-  ➡ Indicates year-round demand — good for consistent revenue planning.
+  ➡ Indicates year-round demand. Good for consistent revenue planning.
 
 ---
 
-### 💡 **14. Underutilized Subscriptions or Loyalty Programs**
-
-* (Inferred from similar dashboards): While total customers are high, only a portion appear regularly.
-  ➡ Introducing incentives for frequent purchases can increase retention.
-
----
-
-### 📈 **15. Balanced Order Distribution by Shipping Type**
+### 📈 **14. Balanced Order Distribution by Shipping Type**
 
 * Each shipping method has roughly similar customer counts (420–460).
-  ➡ Suggests logistics performance is consistent — no single type dominates, indicating well-distributed preferences.
+  ➡ Suggests logistics performance is consistent. No single type dominates, indicating well-distributed preferences.
